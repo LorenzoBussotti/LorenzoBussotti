@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LorenzoBussotti
-- 👀 I’m interested in python projects 
-- 🌱 I’m currently learning machine learning 
+- 👋 Hi, I’m @LorenzoBussotti, biotechnologist and environmental scientist with a Master of Science.
+- 👀 I’m interested in Python programming language.
+- 🌱 I’m currently improving machine learning skills
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 📫 How to reach me: lorenzobussotti1@gmail.com
 
