@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LorenzoBussotti, biotechnologist and environmental scientist with data science specialization.
+- 👋 Hi, I’m @LorenzoBussotti, biotechnologist and environmental scientist.
 - 👀 I’m interested in Python programming language.
 - 🌱 I’m currently improving machine learning skills.
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects.
